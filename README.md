@@ -7,6 +7,6 @@
 
 Используйте этот [Vagrantfile](Vagrantfile) - для тестового стенда.
 
-
+test
 asdfasdfasd
 # Linux_leaern
